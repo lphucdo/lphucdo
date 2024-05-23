@@ -114,8 +114,8 @@
         <path d="M8 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
       </symbol>
     </svg>
-
-    <div class="dropdown position-fixed bottom-0 end-0 mb-3 me-3 bd-mode-toggle">
+    
+    <div class="dropdown position-fixed bottom-0 start-0 mb-3 ms-3 bd-mode-toggle">
       <button class="btn btn-bd-primary py-2 dropdown-toggle d-flex align-items-center"
               id="bd-theme"
               type="button"
@@ -149,7 +149,9 @@
         </li>
       </ul>
     </div>
-
+    <div class="position-fixed bottom-0 end-0 me-3 mb-2">
+      <a href="#"><i class="bi bi-arrow-up-circle fs-2"></i></a>
+    </div>
     
     <header>
       <div class="px-3 py-2 text-bg-dark border-bottom">
@@ -890,15 +892,57 @@
 
 </main>
 
-<footer class="text-body-secondary py-5">
-  <div class="container">
-    <p class="float-end mb-1">
-      <a href="#"><i class="bi bi-arrow-up-circle fs-2"></i></a>
-    </p>
-    <p class="mb-1">&copy; Bản quyền thuộc về TTCN Company!</p>
-    <p class="mb-0">Chưa có tài khoản? <a href="./signup.html">Đăng kí</a> hoặc đăng nhập <a href="./signin.html">Đăng nhập</a>.</p>
-  </div>
-</footer>
+<div class="container mt-10">
+  <footer class="py-3 my-4 border-top">
+    <div class="row row-cols-md-3">
+      <!-- About -->
+      <div class="text-center">
+        <img src="../img/LOGO.svg" alt="TTCN" class="bi" width="120" height="114">
+        <p class="text-body-secondary">Nhiều Nỗ Lực - Nhiều Niềm Tin</p>
+        <div>
+          <a href=""><i class="bi bi-facebook fs-5"></i></a>
+          <a href="" class="text-black me-1 ms-1"><i class="bi bi-github fs-5"></i></a>
+          <a href="" class="text-danger"><i class="bi bi-youtube fs-5"></i></a>
+        </div>
+        <h6 class="text-body-secondary">Trung Tâm Chuyển Nhượng Cầu Thủ</h6>
+      </div>
+      <!-- Info -->
+      <ul class="list-unstyled p-5">
+        <li class="mb-2">
+          <b class="d-block text-body-emphasis">hotline</b>
+          <i>093.33.898.486 – 0246.468.222</i>
+        </li>
+        <li class="mb-2">
+          <b class="d-block text-body-emphasis">email</b>
+          <i>contact@ttcn.com.vn</i>
+        </li>
+        <li class="mb-2">
+          <b class="d-block text-body-emphasis mb-2">address</b>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d334.0016579654452!2d105.93763039330001!3d21.007800988037687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a9005b0c7a8d%3A0xc73f4c2c41d0a84b!2zS2hvYSBDw7RuZyBuZ2jhu4cgdGjDtG5nIHRpbiAtIEjhu41jIHZp4buHbiBOw7RuZyBuZ2hp4buHcCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1716283535990!5m2!1svi!2s" 
+          width="100%" height="100" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <i>Trụ sở: Số 29, ngách 9, ngõ 333, An Đào, thị trấn Trâu Quỳ, Gia Lâm, Hà Nội</i>
+        </li>
+      </ul>
+      <!-- More -->
+      <div class="d-flex justify-content-center">
+        <div class="">
+          <h6><a class="link-secondary text-decoration-none" href="#">Giới thiệu</a></h6>
+          <h6><a class="link-secondary text-decoration-none" href="#">Dịch Vụ</a></h6>
+          <h6><a class="link-secondary text-decoration-none" href="#">Huấn Luyện Viên</a></h6>
+          <h6><a class="link-secondary text-decoration-none" href="#">Dự Án</a></h6>
+          <h6><a class="link-secondary text-decoration-none" href="#">Blog</a></h6>
+          <h6><a class="link-secondary text-decoration-none" href="#">Cầu Thủ</a></h6>
+        </div>
+      </div>
+    </div>
+    <div class="d-flex align-items-center justify-content-center mt-10">
+      <a href="/" class="mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
+        <img src="../img/LOGO.svg" alt="TTCN" class="bi" width="30" height="24">
+      </a>
+      <span class="mb-3 mb-md-0 text-body-secondary">&copy; 671598 Đỗ Phúc Lâm</span>
+    </div>
+  </footer>
+</div>
 <script src="../bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 <script src="../jquery/dist/jquery.min.js"></script>
 <script>
