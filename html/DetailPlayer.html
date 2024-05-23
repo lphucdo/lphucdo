@@ -90,6 +90,9 @@
       .mt-10{
         margin-top: 10rem;
       }
+      .cursor-pointer{
+        cursor: pointer;
+      }
     </style>
 
     
@@ -270,7 +273,7 @@
                 <h6 class="d-inline-block">Giá Bán: <h5 class="text-success d-inline">$110M - $150M</h5></h6>
                 
                 <p class="text-body-emphasis mt-2">
-                  <table class="table text-center">
+                  <table class="table text-center cursor-pointer">
                     <thead>
                       <tr>
                         <th scope="col">Đang bán</th>
@@ -327,14 +330,15 @@
         </div>
         
         <hr class="featurette-divider">
-        <div class="row g-0">
-            <div class="col-md-2">
-              <img src="../img/clb/barca.svg" class="img-fluid rounded-start" style="width: 10rem;" alt="Barcelona">
+        <div class="card">
+          <div class="row g-0">
+            <div class="col-md-2 d-flex">
+              <img src="../img/clb/barca.svg" class="img-fluid rounded-start cursor-pointer" alt="Barcelona">
             </div>
             
             <div class="col-md-10 text-start">
               <div class="card-body">
-                <h5 class="card-title">Barcelona</h5>
+                <h5 class="card-title cursor-pointer">Barcelona <i class="bi bi-patch-check-fill text-primary"></i></h5>
                 <p class="card-text">Câu lạc bộ thuộc xứ sở Catalan. Đang nợ lương cần bán cầu thủ này</p>
                 <p class="card-text"><small class="text-body-secondary">Hoạt động 1 phút trước</small></p>
               </div>
@@ -345,6 +349,7 @@
                 </div>
               </div>
             </div>
+          </div>
         </div>
         
     </div>
@@ -355,11 +360,11 @@
         <div class="card mb-3 me-2">
             <div class="row g-0">
               <div class="col-md-2 p-2">
-                <img src="../img/clb/MU.svg" class="img-fluid rounded-start" alt="...">
+                <img src="../img/clb/MU.svg" class="img-fluid rounded-start cursor-pointer" alt="...">
               </div>
               <div class="col-md-10">
                 <div class="card-body">
-                  <h5 class="card-title d-inline">Man United <i class="bi bi-patch-check-fill text-primary"></i></h5>
+                  <h5 class="card-title d-inline cursor-pointer">Man United <i class="bi bi-patch-check-fill text-primary"></i></h5>
                   <h6 class="card-subtitle mb-2 text-muted comment-date">20/05/2024</h6>
                   <p class="card-text">Dạo này hơi kẹt tiền giảm xíu thì mua.</p>
                   <p class="card-text"><small class="text-body-secondary">Last updated now</small></p>
@@ -371,11 +376,11 @@
         <div class="card mb-3 me-2">
             <div class="row g-0">
               <div class="col-md-2 p-2">
-                <img src="../img/clb/real.svg" class="img-fluid rounded-start" alt="...">
+                <img src="../img/clb/real.svg" class="img-fluid rounded-start cursor-pointer" alt="...">
               </div>
               <div class="col-md-10">
                 <div class="card-body">
-                  <h5 class="card-title d-inline">Real Mandrid <i class="bi bi-patch-check-fill text-primary"></i></h5>
+                  <h5 class="card-title d-inline cursor-pointer">Real Mandrid <i class="bi bi-patch-check-fill text-primary"></i></h5>
                   <h6 class="card-subtitle mb-2 text-muted comment-date">20/05/2024</h6>
                   <p class="card-text">Đợi đến năm sau là húp free rồi đừng ai tranh của anh.</p>
                   <p class="card-text"><small class="text-body-secondary">Last updated now</small></p>
@@ -386,11 +391,11 @@
         <div class="card mb-3 me-2">
             <div class="row g-0">
               <div class="col-md-2 p-2">
-                <img src="../img/clb/bayern.svg" class="img-fluid rounded-start" alt="...">
+                <img src="../img/clb/bayern.svg" class="img-fluid rounded-start cursor-pointer" alt="...">
               </div>
               <div class="col-md-10">
                 <div class="card-body">
-                  <h5 class="card-title d-inline">Bayern Munich <i class="bi bi-patch-check-fill text-primary"></i></h5>
+                  <h5 class="card-title d-inline cursor-pointer">Bayern Munich <i class="bi bi-patch-check-fill text-primary"></i></h5>
                   <h6 class="card-subtitle mb-2 text-muted comment-date">20/05/2024</h6>
                   <p class="card-text">Barca trả giá rồi 20M bán không?.</p>
                   <p class="card-text"><small class="text-body-secondary">Last updated now</small></p>
@@ -401,11 +406,11 @@
         <div class="card mb-3 me-2">
           <div class="row g-0">
             <div class="col-md-2 p-2 text-center p-lg-3">
-              <img src="../img/myAVT.jpg" class="img-fluid rounded-start custom-img" alt="Đỗ Phúc Lâm">
+              <img src="../img/myAVT.jpg" class="img-fluid rounded-start cursor-pointer" alt="Đỗ Phúc Lâm">
             </div>
             <div class="col-md-10">
               <div class="card-body">
-                <h5 class="card-title d-inline">Đỗ Phúc Lâm <i class="bi bi-patch-check-fill text-primary"></i></h5>
+                <h5 class="card-title d-inline cursor-pointer">Đỗ Phúc Lâm <i class="bi bi-patch-check-fill text-primary"></i></h5>
                 <h6 class="card-subtitle mb-2 text-muted comment-date">23/05/2024</h6>
                 <p class="card-text">
                   Ngọt ngào vị cherry đôi môi của em tại sao lại cong thế nhờ <i class="bi bi-music-note-list"></i><br>
@@ -430,7 +435,7 @@
               <div class="col-md-10">
                 <div class="card-body">
                   <div class="form-floating">
-                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+                    <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 140px"></textarea>
                     <label for="floatingTextarea2">Viết bình luận</label>
                   </div>
                   <button class="btn btn-success float-end mt-2">Đăng</button>
@@ -461,7 +466,7 @@
           <h6 class="text-body-secondary">Trung Tâm Chuyển Nhượng Cầu Thủ</h6>
         </div>
         <!-- Info -->
-        <ul class="list-unstyled">
+        <ul class="list-unstyled p-5">
           <li class="mb-2">
             <b class="d-block text-body-emphasis">hotline</b>
             <i>093.33.898.486 – 0246.468.222</i>
