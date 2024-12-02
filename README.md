@@ -45,10 +45,10 @@ Mục tiêu của tôi là trở thành một chuyên gia phát triển phần m
 - **Công nghệ:** Spring Boot, Vue.js  
 - **Link demo:** *([ĐANG PHÁT TRIỂN TỪ THÁNG 11/2024])*  
 
-### 3. API EMPLOYEE  
+### 3. [API EMPLOYEE](https://github.com/lphucdo/react-with-api-employees)  
 - **Mô tả:** Xây dựng API RESTful để thực hiện các chức năng cơ bản như quản lý tài khoản, giao dịch, và truy vấn lịch sử.  
-- **Công nghệ:** Spring Boot, PostgreSQL  
-
+- **Công nghệ:** Spring Boot, PostgreSQL
+- 
 ---
 
 ## Định hướng phát triển  
