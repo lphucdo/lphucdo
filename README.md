@@ -9,8 +9,8 @@ Mục tiêu của tôi là trở thành một chuyên gia phát triển phần m
 
 ## Thông tin cá nhân  
 - **Họ và tên:** Đỗ Phúc Lâm  
-- **Ngày sinh:** 29/09/2004  
-- **Quê quán:** Hà Nội, Quảng Ninh  
+- **Quê quán:** Quảng Ninh
+- **Địa chỉ hiện tại:** Hà Nội
 - **Email cá nhân:** lamubboy@gmail.com  
 - **Email học tập:** 671598@sv.vnua.edu.vn  
 - **GitHub:** [lphucdo](https://github.com/lphucdo)  
@@ -40,12 +40,12 @@ Mục tiêu của tôi là trở thành một chuyên gia phát triển phần m
 - **Công nghệ:** JavaFX, MySQL  
 - **Kết quả:** Hoàn thiện và áp dụng vào các bài tập thực hành tại trường.  
 
-### 2. Blog Cá Nhân  
-- **Mô tả:** Website cho phép người dùng đăng bài viết, bình luận và quản lý nội dung cá nhân.  
+### 2. Nghiên Cứu Khoa Học (Website Nhà Trọ)
+- **Mô tả:** Website cho phép người dùng đăng bài viết, bình luận và quản lý phòng trọ (cho nhiều role người dùng).  
 - **Công nghệ:** Spring Boot, Vue.js  
-- **Link demo:** *(Thêm link nếu có)*  
+- **Link demo:** *([ĐANG PHÁT TRIỂN TỪ THÁNG 11/2024])*  
 
-### 3. API Ngân Hàng  
+### 3. API EMPLOYEE  
 - **Mô tả:** Xây dựng API RESTful để thực hiện các chức năng cơ bản như quản lý tài khoản, giao dịch, và truy vấn lịch sử.  
 - **Công nghệ:** Spring Boot, PostgreSQL  
 
@@ -60,9 +60,9 @@ Tôi đang tập trung học hỏi và phát triển thêm kỹ năng trong các
 ---
 
 ## Chứng chỉ & Thành tích  
-- Đạt giải **Khuyến khích** trong cuộc thi lập trình trường *(ví dụ, thêm thông tin thực tế nếu có)*.  
-- Đang theo học chứng chỉ **Oracle Certified Associate (OCA)** cho Java.  
-
+- Chứng chỉ **Javascript** cơ bản tại F8(SON DANG)
+- Đang theo học chứng chỉ **Oracle Certified Associate (OCA)** cho Java.
+- **9.0** Môn Lập Trình Java
 ---
 
 ## Cách đóng góp  
