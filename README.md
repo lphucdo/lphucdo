@@ -1,81 +1,74 @@
-# Đỗ Phúc Lâm 👋
+---
 
-## Giới thiệu  
-Xin chào! Tôi là **Đỗ Phúc Lâm**, một sinh viên và lập trình viên trẻ đầy nhiệt huyết, với niềm đam mê mãnh liệt dành cho công nghệ thông tin và phát triển phần mềm. Tôi tập trung vào việc xây dựng các ứng dụng hiệu quả, sáng tạo và đáp ứng nhu cầu thực tiễn.  
+# 🌟 Xin chào! Tôi là **Đỗ Phúc Lâm** 👋  
 
-Mục tiêu của tôi là trở thành một chuyên gia phát triển phần mềm, có khả năng giải quyết các bài toán thực tế và đóng góp vào những dự án có tầm ảnh hưởng lớn.  
+## 🎨 Một chút về tôi  
+Xin chào! Tôi là **Lâm**, một lập trình viên trẻ tuổi, nhiệt huyết và luôn "cháy" với từng dòng code. Đến từ Quảng Ninh – vùng đất mỏ đầy nắng gió, hiện tôi đang sinh sống và làm việc tại Hà Nội với giấc mơ lớn là tạo ra những sản phẩm công nghệ **đột phá**, **đẹp mắt** và **thực sự hữu ích** cho cộng đồng.  
+
+💻 **Lập trình không chỉ là công việc mà là đam mê** – mỗi dự án là một chuyến hành trình, và tôi luôn tìm kiếm những cơ hội mới để học hỏi, sáng tạo, và vượt qua giới hạn bản thân.  
 
 ---
 
-## Thông tin cá nhân  
-- **Họ và tên:** Đỗ Phúc Lâm  
-- **Quê quán:** Quảng Ninh
-- **Địa chỉ hiện tại:** Hà Nội
-- **Email cá nhân:** lamubboy@gmail.com  
-- **Email học tập:** 671598@sv.vnua.edu.vn  
-- **GitHub:** [lphucdo](https://github.com/lphucdo)  
+## 🚀 Những điều tôi làm được  
+### 🛠️ Kỹ năng chính:  
+- **Backend Wizardry:** Java (Spring Boot, JavaFX, Core Java).  
+- **Frontend Alchemy:** JavaScript (Vue.js).  
+- **Database Mastery:** MySQL, PostgreSQL.  
+
+### 🎯 Điểm mạnh:  
+- Xây dựng backend mạnh mẽ và đáng tin cậy.  
+- Thiết kế giao diện người dùng thân thiện, trực quan với Vue.js.  
+- Tối ưu hóa hệ thống để đạt hiệu năng tốt nhất.  
+
+### 🧰 Công cụ yêu thích:  
+- IDE: **IntelliJ IDEA**, **Eclipse**, **VS Code**.  
+- Quản lý phiên bản: **Git**, **GitHub**.  
 
 ---
 
-## Kỹ năng & Công cụ  
-### Ngôn ngữ lập trình  
-- **Backend:** Java (Spring Boot, JavaFX, Core Java)  
-- **Frontend:** JavaScript (Vue.js)  
+## 💡 Những dự án nổi bật  
+### 🎓 **Quản lý Sinh viên**  
+- 🖥️ Ứng dụng desktop giúp quản lý thông tin sinh viên một cách dễ dàng và trực quan.  
+- **Công nghệ:** JavaFX, MySQL.  
+- **Kết quả:** Hoàn thiện và ứng dụng thực tế trong học tập.  
 
-### Công cụ phát triển  
-- **IDE:** Eclipse, Spring Tool Suite, IntelliJ IDEA, Visual Studio Code  
-- **Cơ sở dữ liệu:** MySQL, PostgreSQL  
-- **Quản lý phiên bản:** Git, GitHub  
+### 🏠 **Website Nhà Trọ**  
+- 🌐 Nền tảng kết nối giữa chủ nhà trọ và người thuê.  
+- **Công nghệ:** Spring Boot, Vue.js.  
+- **Trạng thái:** Đang phát triển (bắt đầu từ 11/2024).  
 
-### Lĩnh vực chuyên môn  
-- Phát triển ứng dụng backend mạnh mẽ với Spring Boot.  
-- Xây dựng ứng dụng desktop giao diện đẹp và hiệu quả với JavaFX.  
-- Thiết kế giao diện người dùng hiện đại với Vue.js.  
-
----
-
-## Dự án nổi bật  
-### 1. Quản lý Sinh viên  
-- **Mô tả:** Ứng dụng desktop quản lý thông tin sinh viên với chức năng thêm, sửa, xóa và tìm kiếm.  
-- **Công nghệ:** JavaFX, MySQL  
-- **Kết quả:** Hoàn thiện và áp dụng vào các bài tập thực hành tại trường.  
-
-### 2. Nghiên Cứu Khoa Học (Website Nhà Trọ)
-- **Mô tả:** Website cho phép người dùng đăng bài viết, bình luận và quản lý phòng trọ (cho nhiều role người dùng).  
-- **Công nghệ:** Spring Boot, Vue.js  
-- **Link demo:** *([ĐANG PHÁT TRIỂN TỪ THÁNG 11/2024])*  
-
-### 3. [API EMPLOYEE](https://github.com/lphucdo/react-with-api-employees)  
-- **Mô tả:** Xây dựng API RESTful để thực hiện các chức năng cơ bản như quản lý tài khoản, giao dịch, và truy vấn lịch sử.  
-- **Công nghệ:** Spring Boot, PostgreSQL
-- 
----
-
-## Định hướng phát triển  
-Tôi đang tập trung học hỏi và phát triển thêm kỹ năng trong các lĩnh vực sau:  
-- **Microservices:** Thiết kế và triển khai kiến trúc microservices với Spring Cloud.  
-- **DevOps:** Tìm hiểu về Docker, Kubernetes, Jenkins, và các công cụ CI/CD.  
-- **Bảo mật:** Nâng cao kiến thức về bảo mật hệ thống và ứng dụng.  
+### 📊 **API Employee**  
+- 🔗 RESTful API hỗ trợ quản lý nhân viên, tài khoản, và giao dịch.  
+- **Link GitHub:** [API Employee](https://github.com/lphucdo/react-with-api-employees).  
+- **Công nghệ:** Spring Boot, PostgreSQL.  
 
 ---
 
-## Chứng chỉ & Thành tích  
-- Chứng chỉ **Javascript** cơ bản tại F8(SON DANG)
-- Đang theo học chứng chỉ **Oracle Certified Associate (OCA)** cho Java.
-- **9.0** Môn Lập Trình Java
----
+## 🌱 Hành trình phát triển  
+> "Không có giới hạn nào trói buộc được những ai luôn học hỏi và cố gắng mỗi ngày!"  
 
-## Cách đóng góp  
-Nếu bạn quan tâm và muốn đóng góp vào các dự án của tôi, vui lòng thực hiện:  
-1. Fork dự án từ repository.  
-2. Tạo nhánh mới với tên `feature/<tên-tính-năng>`.  
-3. Gửi pull request sau khi hoàn thành.  
+Hiện tại, tôi đang mở rộng kỹ năng ở các lĩnh vực:  
+- 🌌 **Microservices:** Thiết kế kiến trúc microservices linh hoạt và hiệu quả với Spring Cloud.  
+- ⚙️ **DevOps:** Làm quen với Docker, Kubernetes, Jenkins, và CI/CD để rút ngắn thời gian phát triển.  
+- 🔒 **Bảo mật:** Học hỏi các kỹ thuật để bảo vệ ứng dụng và dữ liệu khỏi các mối đe dọa.  
 
 ---
 
-## Liên hệ  
-- **Email cá nhân:** lamubboy@gmail.com  
-- **Email học tập:** 671598@sv.vnua.edu.vn  
-- **GitHub:** [lphucdo](https://github.com/lphucdo)  
+## 🏅 Thành tích & Chứng chỉ  
+- 📜 Chứng chỉ **JavaScript cơ bản** tại F8 (Sơn Đặng).  
+- 📖 Đang theo học chứng chỉ **Oracle Certified Associate (OCA)**.  
+- 🌟 **9.0 điểm** môn [Lập Trình Java](https://daotao.vnua.edu.vn/Default.aspx?page=xemdiemthi&id=671598) tại Học viện Nông nghiệp Việt Nam.  
 
-_Cảm ơn bạn đã ghé thăm trang GitHub của tôi! Tôi rất mong được hợp tác với bạn!_ 😊  
+---
+
+## 🤝 Kết nối với tôi  
+Đừng ngại nhắn tin nếu bạn muốn hợp tác, thảo luận về lập trình, hoặc đơn giản là chia sẻ về niềm đam mê công nghệ!  
+
+- 📧 **Email cá nhân:** lamubboy@gmail.com  
+- 🌐 **GitHub:** [lphucdo](https://github.com/lphucdo)  
+- 🔗 **Linkedin** [Đỗ Phúc Lâm](https://www.linkedin.com/in/ph%C3%BAc-l%C3%A2m-%C4%91%E1%BB%97-3a7505325/)
+🌈 **Cảm ơn bạn đã ghé thăm trang của tôi! Hy vọng một ngày nào đó chúng ta có thể cùng nhau tạo nên điều gì đó thật tuyệt vời!**  
+
+---  
+
+Phiên bản này sử dụng biểu tượng cảm xúc và ngôn từ sôi nổi để tạo ra cảm giác gần gũi, hiện đại, và năng động hơn. Bạn thấy ổn chứ? 😊
