@@ -1,6 +1,6 @@
 ---
 
-# 🌟 Xin chào! Tôi là **Đỗ Phúc Lâm** 👋  
+# 🌟 Xin chào! Tôi là **Đỗ Phúc Lâm** 👋  ![GitHub Followers](https://img.shields.io/github/followers/lphucdo?style=social)
 
 ## 🎨 Một chút về tôi  
 Xin chào! Tôi là **Lâm**, một lập trình viên trẻ tuổi, nhiệt huyết và luôn "cháy" với từng dòng code. Đến từ Quảng Ninh – vùng đất mỏ đầy nắng gió, hiện tôi đang sinh sống và làm việc tại Hà Nội với giấc mơ lớn là tạo ra những sản phẩm công nghệ **đột phá**, **đẹp mắt** và **thực sự hữu ích** cho cộng đồng.  
@@ -10,10 +10,10 @@ Xin chào! Tôi là **Lâm**, một lập trình viên trẻ tuổi, nhiệt huy
 ---
 
 ## 🚀 Những điều tôi làm được  
-### 🛠️ Kỹ năng chính:  
-- **Backend Wizardry:** Java (Spring Boot, JavaFX, Core Java).  
-- **Frontend Alchemy:** JavaScript (Vue.js).  
-- **Database Mastery:** MySQL, PostgreSQL.  
+🌟 Ngôn Ngữ Yêu Thích
+![Java](https://img.shields.io/badge/Code-Java-blue) - Sức mạnh cho mọi ứng dụng backend và desktop.
+JavaScript - "Ma thuật" giúp giao diện thêm sống động.
+SQL - Linh hồn của dữ liệu!
 
 ### 🎯 Điểm mạnh:  
 - Xây dựng backend mạnh mẽ và đáng tin cậy.  
@@ -67,8 +67,8 @@ Hiện tại, tôi đang mở rộng kỹ năng ở các lĩnh vực:
 - 📧 **Email cá nhân:** lamubboy@gmail.com  
 - 🌐 **GitHub:** [lphucdo](https://github.com/lphucdo)  
 - 🔗 **Linkedin** [Đỗ Phúc Lâm](https://www.linkedin.com/in/ph%C3%BAc-l%C3%A2m-%C4%91%E1%BB%97-3a7505325/)
+
+---
 🌈 **Cảm ơn bạn đã ghé thăm trang của tôi! Hy vọng một ngày nào đó chúng ta có thể cùng nhau tạo nên điều gì đó thật tuyệt vời!**  
 
 ---  
-
-Phiên bản này sử dụng biểu tượng cảm xúc và ngôn từ sôi nổi để tạo ra cảm giác gần gũi, hiện đại, và năng động hơn. Bạn thấy ổn chứ? 😊
