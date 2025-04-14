@@ -4,6 +4,16 @@
 
 ---
 
+## 🎵 Spotify
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+---
+
 ## 🚀 Kỹ năng
 
 <table>
@@ -70,23 +80,7 @@
   </a>
 </div>
 
----
 
-## 🎵 Spotify Status
-
-<div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-## 🎵 Spotify Status
-
-<div align="center">
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
-</div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lphucdo&&style=flat-square" alt="Profile Views" />
