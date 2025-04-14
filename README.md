@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 My Skill Set
+## 🚀 Kỹ năng
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
 
 ---
 
-## 🤝 Connect with Me  
+## 🤝 Kết nối
 
 <div align="center">
   <a href="https://linkedin.com/in/l%C3%A2m-undefined-13307a257" target="_blank">
@@ -72,19 +72,13 @@
 
 ---
 
-## 📊 Github Stats
+## 🎵 Spotify Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lphucdo&show_icons=true&count_private=true&hide_border=true" />
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </div>
-
----
-
-## 📝 Recent Blog Posts
-
-*(Coming soon...)*
-
----
 
 ## 🎵 Spotify Status
 
