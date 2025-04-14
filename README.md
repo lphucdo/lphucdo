@@ -1,96 +1,105 @@
----
-
-# 🌟 **Xin chào! Tôi là Đỗ Phúc Lâm** 👋   ![GitHub Followers](https://img.shields.io/github/followers/lphucdo?style=social)  
-
----
-
-## 🎨 **Giới thiệu một chút về tôi**  
-Xin chào! Tôi là **Lâm**, một lập trình viên trẻ, đam mê công nghệ, và luôn "cháy" hết mình với từng dòng code.  
-
-📍 **Quê quán:** Quảng Ninh  
-🏠 **Nơi ở hiện tại:** Hà Nội  
-🌟 **Mục tiêu:** Phát triển những sản phẩm **đột phá**, **hữu ích**, và mang lại giá trị thực tế cho cộng đồng.  
-
-💻 **Lập trình không chỉ là công việc, mà là đam mê và nghệ thuật!**
-
----
-
-## 🚀 **Những điều tôi làm được**  
-
-### 🌟 **Ngôn ngữ và công nghệ yêu thích**  
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-  **Sức mạnh chính** để phát triển backend và ứng dụng desktop.
+<div align="center">
+<img src="https://dophuclam.id.vn/Logo123.png" align="center" height="64" width="64" />
+</div>  
   
-- ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-  **Lập Trình Ứng Dụng Desktop** chạy trên mọi hệ điều hành.
 
-- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-  **Xương sống backend** với hệ thống mạnh mẽ, linh hoạt.  
+<br/>  
 
-- ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
-  **Phép thuật giao diện** – giúp ứng dụng trở nên sống động, trực quan.  
 
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-  **Quản lý dữ liệu** hiệu quả và đáng tin cậy.  
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
----
 
-### 🧰 **Công cụ yêu thích**  
-- **IDE:** ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white), ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white).  
-- **Quản lý phiên bản:** ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white).  
 
----
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+</div>
 
-## 💡 **Dự án nổi bật**  
+</td><td valign="top" width="33%">
 
-### 🎓 **Quản lý Sinh viên**  
-- 🖥️ **Mô tả:** Ứng dụng desktop quản lý thông tin sinh viên với chức năng thêm, sửa, xóa, tìm kiếm.  
-- **Công nghệ:** JavaFX, MySQL.  
-- **Kết quả:** Đã ứng dụng thực tế trong học tập.  
 
----
 
-### 🏠 **Website Nhà Trọ**  
-- 🌐 **Mô tả:** Nền tảng kết nối chủ nhà trọ và người thuê nhà với các tính năng đăng bài, bình luận, và quản lý.  
-- **Công nghệ:** Spring Boot, Vue.js.  
-- **Trạng thái:** Đang phát triển (bắt đầu từ 11/2024).  
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+</div>
 
----
+</td><td valign="top" width="33%">
 
-### 📊 **API Employee**  
-- 🔗 **Mô tả:** RESTful API hỗ trợ quản lý nhân viên, tài khoản, và giao dịch.  
-- **Công nghệ:** Spring Boot, PostgreSQL.  
-- **GitHub:** [API Employee](https://github.com/lphucdo/react-with-api-employees).  
 
----
 
-## 🌱 **Hành trình phát triển**  
-> *"Không có giới hạn nào cho những ai luôn học hỏi và sáng tạo mỗi ngày!"*  
+### DevOps  
+<div align="center">  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
+</div>
 
-Hiện tại, tôi đang tìm hiểu thêm về:  
-- **Microservices:** Thiết kế kiến trúc dịch vụ nhỏ gọn và hiệu quả.  
-- **DevOps:** Thành thạo Docker, Kubernetes, và công cụ CI/CD.  
-- **Bảo mật:** Tăng cường khả năng bảo vệ ứng dụng.  
+</td></tr></table>  
 
----
+<br/>  
 
-## 🏅 **Thành tích và Chứng chỉ**  
-- 📜 **Chứng chỉ JavaScript cơ bản** tại F8 (Sơn Đặng).  
-- 📖 Đang theo học **Oracle Certified Associate (OCA)**.  
-- 🌟 **9.0 điểm** môn [Lập Trình Java](https://daotao.vnua.edu.vn/Default.aspx?page=xemdiemthi&id=671598).  
 
----
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/l%C3%A2m-undefined-13307a257" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/lamdo299" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/lphucdo" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@LavaDevOfficial" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-## 📬 **Liên hệ với tôi**  
-Đừng ngần ngại gửi lời nhắn! Tôi rất vui khi được kết nối với bạn.  
+<br/>  
 
-- 📧 **Email cá nhân:** [lamubboy@gmail.com](mailto:lamubboy@gmail.com)  
-- 🌐 **GitHub:** [lphucdo](https://github.com/lphucdo)  
-- 🔗 **LinkedIn:** [Đỗ Phúc Lâm](https://www.linkedin.com/in/phúc-lâm-đỗ-3a7505325/)  
 
----
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=lphucdo&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-✨ **Cảm ơn bạn đã ghé thăm!**  
-Hy vọng rằng chúng ta có thể cùng nhau tạo nên những điều tuyệt vời trong tương lai!  
+<br/>  
 
----
+
+## Recent Blog Posts  
+  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lphucdo&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
