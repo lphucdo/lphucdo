@@ -89,7 +89,7 @@
 ## 🎵 Spotify Status
 
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" />
+  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
 </div>
 
 ---
