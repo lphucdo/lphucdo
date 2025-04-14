@@ -2,10 +2,6 @@
   <img src="https://dophuclam.id.vn/Logo123.png" height="64" width="64" alt="Logo" />
 </div>
 
----
-
-## 🎵 Spotify
-
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=at5nk5yggkf0k634kzoib168o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
